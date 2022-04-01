@@ -3,3 +3,5 @@ whoami
 #!/bin/bash
 #!/bin/bash
 whoami
+#!/bin/bash
+whoami
